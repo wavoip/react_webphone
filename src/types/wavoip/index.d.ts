@@ -1,0 +1,1 @@
+declare module 'wavoip-api';
